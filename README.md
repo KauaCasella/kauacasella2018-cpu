@@ -96,6 +96,5 @@ print(KauaCasella())
   <img src="https://img.shields.io/badge/04-DADOS%20%F0%9F%8E%AF-0B0B0C?style=for-the-badge&labelColor=C6F432&color=0B0B0C"/>
 </p>
 
----
 
-<p align="center"><sub><b><i>GG. Código é treino.</i></b></sub></p>
+
