@@ -1,88 +1,36 @@
-<!-- KC//GITHUB v2.0 — Kauã Casella · identidade "Alta Performance" -->
-<!-- Responsivo: sem tabelas de colunas fixas; imagens com largura fixa encolhem (max-width 100%) e quebram de linha no mobile -->
+<!-- KC//GITHUB v2.1 — Kauã Casella · minimal -->
 
 <p align="center">
   <img src="./assets/banner.svg" alt="Kauã Casella — Código é treino." width="100%"/>
 </p>
 
-<h3 align="center">Hello World! Eu sou o Kauã Casella! 👋</h3>
+<p align="center">
+  <b>Kauã Casella</b> · Ciência da Computação @ FECAP · 🇧🇷<br/>
+  Buscando estágio em TI · rumo à área de Dados
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Brasil-BR-C6F432?style=flat-square&labelColor=0B0B0C" alt="Brasil"/>
   <a href="https://www.linkedin.com/in/kaua-casella"><img src="https://img.shields.io/badge/LinkedIn-0B0B0C?style=flat-square&logo=linkedin&logoColor=C6F432" alt="LinkedIn"/></a>
   <a href="mailto:kauacasella2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0B0C?style=flat-square&logo=gmail&logoColor=C6F432" alt="Gmail"/></a>
   <a href="https://portfolio-kaua-xi.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-C6F432?style=flat-square&logo=vercel&logoColor=0B0B0C" alt="Portfólio"/></a>
 </p>
 
----
-
 ```python
-class KauaCasella:
-
-    # ── Stack ─────────────────────────
-    languages  = ["Python", "JavaScript", "C#"]
-    web        = ["HTML5", "CSS3"]
-    databases  = ["MySQL"]
-    tools      = ["Figma", "Unity"]
-
-    # ── Sobre mim ─────────────────────
-    graduacao  = "🎓 Ciência da Computação — FECAP"
-    interesse  = "💻 Estágio em TI"
-    aprendendo = "📚 MySQL e back-end"
-    objetivo   = ("🚀 Atuar na área de Dados:"
-                  " análise, organização e"
-                  " tratamento de informações")
-    fora_do_pc = "🏋️ academia · 🤾 handebol · 🎯 FPS"
-
-    def __str__(self) -> str:
-        return (
-            f"{self.interesse}\n"
-            f"{self.objetivo}\n"
-            f"> Código é treino."
-        )
-
-print(KauaCasella())
+kaua = {
+    "stack":      ["Python", "JavaScript", "C#", "MySQL"],
+    "aprendendo": ["MySQL", "back-end"],
+    "objetivo":   "Dados: análise, organização e tratamento",
+    "fora_do_pc": "🏋️ academia · 🤾 handebol · 🎯 FPS",
+}  # > Código é treino.
 ```
 
----
-
-<h3 align="center">🚀 Skills</h3>
-
 <p align="center">
-  <img width="400" src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,unity,figma&theme=dark&perline=8" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,unity,figma&theme=dark" alt="HTML, CSS, JavaScript, Python, C#, MySQL, Unity, Figma"/>
 </p>
 
-<p align="center"><code>// WEB</code></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=C6F432" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css&logoColor=C6F432" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=C6F432" alt="JavaScript"/>
-</p>
-
-<p align="center"><code>// LINGUAGENS</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0B0B0C?style=for-the-badge&logo=python&logoColor=C6F432" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-0B0B0C?style=for-the-badge&logo=dotnet&logoColor=C6F432" alt="C#"/>
-</p>
-
-<p align="center"><code>// DADOS</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0B0B0C?style=for-the-badge&logo=mysql&logoColor=C6F432" alt="MySQL"/>
-</p>
-
-<p align="center"><code>// FERRAMENTAS</code></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=C6F432" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Unity-0B0B0C?style=for-the-badge&logo=unity&logoColor=C6F432" alt="Unity"/>
-</p>
-
-<br/>
-
-<p align="center"><code>◎ QUEST PRINCIPAL</code></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/01-FRONT--END%20%E2%9C%93-C6F432?style=for-the-badge&labelColor=0B0B0C" alt="01 Front-end concluído"/>
-  <img src="https://img.shields.io/badge/02-MYSQL%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C" alt="02 MySQL em treino"/>
-  <img src="https://img.shields.io/badge/03-BACK--END%20%C2%B7%20EM%20TREINO-2A2C31?style=for-the-badge&labelColor=0B0B0C" alt="03 Back-end em treino"/>
-  <img src="https://img.shields.io/badge/04-DADOS%20%F0%9F%8E%AF-0B0B0C?style=for-the-badge&labelColor=C6F432" alt="04 Dados (objetivo)"/>
+  <img src="https://img.shields.io/badge/FRONT--END-%E2%9C%93-C6F432?style=flat-square&labelColor=0B0B0C" alt="Front-end concluído"/>
+  <img src="https://img.shields.io/badge/MYSQL-em%20treino-2A2C31?style=flat-square&labelColor=0B0B0C" alt="MySQL em treino"/>
+  <img src="https://img.shields.io/badge/BACK--END-em%20treino-2A2C31?style=flat-square&labelColor=0B0B0C" alt="Back-end em treino"/>
+  <img src="https://img.shields.io/badge/DADOS-%F0%9F%8E%AF-0B0B0C?style=flat-square&labelColor=C6F432" alt="Dados (objetivo)"/>
 </p>
