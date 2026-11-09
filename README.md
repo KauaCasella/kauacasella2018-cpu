@@ -42,16 +42,6 @@ class KauaCasella:
         )
 
 print(KauaCasella())
-```
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api?username=kauacasella2018-cpu&show_icons=true&hide_rank=false&bg_color=0B0B0C&title_color=C6F432&icon_color=C6F432&text_color=FFFFFF&border_color=2A2C31&ring_color=C6F432&locale=pt-br&custom_title=Stats" alt="GitHub Stats"/>
-  <img width="420" src="https://streak-stats.demolab.com?user=kauacasella2018-cpu&locale=pt_BR&background=0B0B0C&border=2A2C31&ring=C6F432&fire=C6F432&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C6F432&sideLabels=8A8F98&dates=8A8F98&stroke=2A2C31" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacasella2018-cpu&layout=compact&bg_color=0B0B0C&title_color=C6F432&text_color=FFFFFF&border_color=2A2C31&locale=pt-br" alt="Linguagens mais usadas"/>
-</p>
 
 ---
 
